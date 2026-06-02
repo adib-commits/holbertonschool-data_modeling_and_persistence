@@ -1,5 +1,3 @@
-sqlite3 my_database.db
-
 CREATE TABLE books (
     id INTEGER PRIMARY KEY,
     title TEXT NOT NULL,
